@@ -11,7 +11,7 @@ The *vast* majority of this project is composed of the incredible work of [wlan]
 # What this isn't
 * A virus. This does nothing but what you make it.
 
-The decision to allow known vulnerable drivers to have free access to the kernel is one made by Microsoft.
+The decision to allow known vulnerable drivers to have free access to the kernel is one made by Microsoft.<br/>
 This will potentially be caught by antimalware purely due to the use of the word "Capcom", but often not.
 
 People asking me how to make their videogame cheat won't get a response.<br />
