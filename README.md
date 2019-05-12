@@ -1,5 +1,5 @@
 # legacymap
-A port of drvmap (which is effectively a rootkit loader) for earlier versions of Windows.
+A port of [drvmap](https://github.com/not-wlan/drvmap) (which is effectively a rootkit loader) for earlier versions of Windows.
 
 The *vast* majority of this project is composed of the incredible work of [wlan](https://github.com/not-wlan). I simply rewrote parts of it to provide verbose feedback and error checking, and adapted pieces that previously only worked on Win 10.
 
