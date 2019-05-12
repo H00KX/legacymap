@@ -12,5 +12,6 @@ The *vast* majority of this project is composed of the incredible work of [wlan]
 * Tested with imports via ordinals. If you know you need them to work, then I'm pretty sure you know how to fix them.
 * A virus. This does nothing but what you make it.
 
-The decision to allow known vulnerable drivers to have free access to the kernel is one made by Microsoft.<br/>
+The decision to allow known vulnerable drivers to have free access to the kernel was one made by Microsoft.<br/>
+Win10 is a slight improvement as Secure Boot probably blocks these at boot time.<br />
 This will potentially be caught by antimalware purely due to the use of the word "Capcom", but often not.
