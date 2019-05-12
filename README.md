@@ -14,5 +14,5 @@ The *vast* majority of this project is composed of the incredible work of [wlan]
 The decision to allow known vulnerable drivers to have free access to the kernel is one made by Microsoft.
 This will potentially be caught by antimalware purely due to the use of the word "Capcom", but often not.
 
-People asking me how to make their videogame cheat work will be ignored.
+People asking me how to make their videogame cheat won't get a response.<br />
 Anyone willing to ask open questions and with a desire to learn will get my enthusiastic help.
