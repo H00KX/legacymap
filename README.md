@@ -10,4 +10,4 @@ The *vast* majority of this project is composed of the incredible work of [wlan]
 
 # What this isn't
 * Tested with imports via ordinals. If you need to use them, I'm pretty sure you're smarter than I am anyway.
-* A virus. This allows you to execute kernel mode code on your own machine only, and any antivirus would nab it anyway.
+* A virus. This allows you to execute kernel mode code on your own machine only for educational purposes.
